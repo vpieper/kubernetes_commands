@@ -1,5 +1,6 @@
 # kubernetes_commands
 Kubernetes most used kubectl commands
+
 ✅ 𝐂𝐨𝐫𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭
 
 #1 𝐤𝐮𝐛𝐞𝐜𝐭𝐥 𝐠𝐞𝐭
